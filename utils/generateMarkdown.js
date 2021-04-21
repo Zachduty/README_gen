@@ -1998,7 +1998,7 @@ function generateMarkdown(data) {
 
   ## Usage
 
-  How to use: 
+  Information on using application: 
   ${data.repo}
   How to Contribute to the repo:
   ${data.contribute}
